@@ -217,3 +217,8 @@ class ExpenseApp(QWidget):
         self.dropdown.setCurrentIndex(0)
         self.amount.clear()
         self.description.clear()
+
+print("Expense Tracker 2.0 initialized successfully.")
+
+
+
